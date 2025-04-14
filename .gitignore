@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/rust-learning-journey/FileContentIndex
+/.vs/rust-learning-journey/v17
+/.vs
