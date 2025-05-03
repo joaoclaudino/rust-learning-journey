@@ -1,0 +1,1 @@
+C:\Users\joao\source\repos\rust-learning-journey\02-guessing-game\guessing_game\target\debug\guessing_game.exe: C:\Users\joao\source\repos\rust-learning-journey\02-guessing-game\guessing_game\src\main.rs

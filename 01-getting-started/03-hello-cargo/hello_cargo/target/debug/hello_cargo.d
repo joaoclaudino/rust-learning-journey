@@ -1,0 +1,1 @@
+C:\Users\joao\source\repos\rust-learning-journey\01-getting-started\03-hello-cargo\hello_cargo\target\debug\hello_cargo.exe: C:\Users\joao\source\repos\rust-learning-journey\01-getting-started\03-hello-cargo\hello_cargo\src\main.rs
