@@ -33,3 +33,69 @@ Cada diretório representa um capítulo do livro, contendo exercícios práticos
 - Aprender Rust profundamente, desde fundamentos até conceitos avançados.
 - Construir um portfólio open-source demonstrando minhas habilidades em Rust.
 - Engajar com a comunidade técnica e recrutadores através do LinkedIn.
+
+---
+
+## 📚 Chapter Summaries / Resumos por Capítulo
+
+### `01-getting-started`
+- 🇺🇸 Set up Rust and wrote the classic “Hello, world!”.
+- 🇧🇷 Configurei o ambiente e escrevi o clássico “Hello, world!”.
+
+### `02-guessing-game`
+- 🇺🇸 Built an interactive CLI number guessing game using standard library.
+- 🇧🇷 Criei um jogo interativo de adivinhação de números via terminal usando a biblioteca padrão.
+
+### `04-understanding-ownership`
+- 🇺🇸 Learned core concepts of ownership, borrowing and lifetimes in Rust.
+- 🇧🇷 Aprendi os conceitos fundamentais de ownership, empréstimo e lifetimes em Rust.
+
+### `05-structs`
+- 🇺🇸 Practiced defining and using `struct`s to model custom data types.
+- 🇧🇷 Pratiquei a definição e uso de `structs` para modelar tipos de dados personalizados.
+
+### `06-enums-pattern-matching`
+- 🇺🇸 Used enums and pattern matching (`match`, `if let`) to control flow and logic.
+- 🇧🇷 Usei enums e correspondência de padrões (`match`, `if let`) para controle de fluxo e lógica.
+
+---
+
+### `07-modules-crates`
+
+- 🇺🇸 Learned how to structure Rust code with modules, visibility (`pub`), and external crates (`rand`).
+- 🇧🇷 Aprendi a organizar o código Rust com módulos, visibilidade (`pub`) e crates externos (`rand`).
+
+Exemplos incluem:
+- Módulos simples e aninhados
+- `pub use` e escopos
+- Separação de arquivos
+- Uso de crates com `Cargo.toml`
+
+---
+
+### `08-collections`
+
+- 🇺🇸 Explored built-in collections like `Vec`, `String`, and `HashMap`.
+- 🇧🇷 Explorei coleções embutidas como `Vec`, `String` e `HashMap`.
+
+Exemplos incluem:
+- Iterações e mutabilidade
+- Strings com UTF-8
+- Contagem de palavras com `HashMap`
+- Uso de `entry`, `or_insert`, etc.
+
+---
+
+### `09-error-handling`
+
+- 🇺🇸 Learned how to handle errors in Rust with `Result`, `Option`, `unwrap`, `expect`, and custom error types.
+- 🇧🇷 Aprendi a tratar erros em Rust usando `Result`, `Option`, `unwrap`, `expect` e tipos de erro personalizados.
+
+Exemplos incluem:
+- Leitura de arquivos com propagação de erro (`?`)
+- Uso de `panic!`
+- Criação de enum de erro customizado
+
+---
+
+🚧 More chapters coming soon as I continue my journey! / Mais capítulos em breve!
