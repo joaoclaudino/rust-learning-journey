@@ -97,5 +97,42 @@ Exemplos incluem:
 - Criação de enum de erro customizado
 
 ---
+### `10-generics-traits-lifetimes`
+
+- 🇺🇸 Implemented generic functions and structs, learned about trait bounds and lifetime annotations.
+- 🇧🇷 Implementei funções e structs genéricos, aprendi sobre bounds de traits e anotação de lifetimes.
+
+Exemplos incluem:
+- `largest<T>()`, uso de `impl Trait`, `where`, e `Deref`
+- Structs com lifetimes
+- Funções com múltiplas referências
+
+---
+
+### `11-tests`
+
+- 🇺🇸 Wrote automated unit tests with `#[test]`, learned about test organization, `should_panic`, and test filtering.
+- 🇧🇷 Escrevi testes unitários automatizados com `#[test]`, organizei em módulos, usei `should_panic` e filtros para execução.
+
+Exemplos incluem:
+- Execução de testes com `cargo test`
+- Ignorando testes longos com `#[ignore]`
+- Usando `Result` nos testes
+- Visualizando output com `--show-output`
+
+---
+
+### `12-cli-minigrep`
+
+- 🇺🇸 Built a complete command-line program that searches for strings in files (like `grep`).
+- 🇧🇷 Construi um programa de linha de comando completo que busca por strings em arquivos (estilo `grep`).
+
+Funcionalidades implementadas:
+- Argumentos com `std::env`
+- Leitura de arquivos com `fs`
+- Modularização (`main.rs` + `lib.rs`)
+- Case-insensitive search com variável de ambiente `IGNORE_CASE`
+- Escrita para stderr com `eprintln!`
+- Testes para busca sensível e insensível
 
 🚧 More chapters coming soon as I continue my journey! / Mais capítulos em breve!
