@@ -134,5 +134,42 @@ Funcionalidades implementadas:
 - Case-insensitive search com variável de ambiente `IGNORE_CASE`
 - Escrita para stderr com `eprintln!`
 - Testes para busca sensível e insensível
+### `13-functional-features`
+
+- 🇺🇸 Learned to use closures, iterators, and functional programming style.
+- 🇧🇷 Aprendi a usar closures, iteradores e programação funcional em Rust.
+
+Exemplos incluem:
+- `.map()`, `.filter()`, `.fold()`, `.collect()`
+- Implementação de iteradores personalizados com `impl Iterator`
+- Refatoração funcional do projeto `minigrep`
+
+---
+
+### `14-cargo-crates`
+
+- 🇺🇸 Customized Cargo build profiles, explored crates.io publishing, and created workspaces.
+- 🇧🇷 Personalizei perfis de build do Cargo, explorei publicação no crates.io e criei workspaces.
+
+Exemplos incluem:
+- `Cargo.toml` com metadados
+- Estrutura de workspaces com múltiplos projetos
+
+---
+
+### `15-smart-pointers`
+
+- 🇺🇸 Learned to use smart pointers: `Box<T>`, `Rc<T>`, `RefCell<T>` and interior mutability.
+- 🇧🇷 Aprendi a usar ponteiros inteligentes: `Box<T>`, `Rc<T>`, `RefCell<T>` e o padrão de mutabilidade interior.
+
+Exemplos incluem:
+- Armazenamento no heap com `Box`
+- Compartilhamento de dados com `Rc`
+- Mutabilidade em tempo de execução com `RefCell`
+- Estruturas complexas com `Rc<RefCell<T>>`
+
+🚀 Rust memory management mastered!
+
+
 
 🚧 More chapters coming soon as I continue my journey! / Mais capítulos em breve!

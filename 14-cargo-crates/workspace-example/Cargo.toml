@@ -1,0 +1,6 @@
+# workspace-example/Cargo.toml - Exemplo de workspace
+[workspace]
+members = [
+    "project-a",
+    "project-b"
+]

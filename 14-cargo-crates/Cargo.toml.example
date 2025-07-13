@@ -1,0 +1,9 @@
+# Cargo.toml.example - Exemplo de metadata para publicação
+[package]
+name = "my_crate"
+version = "0.1.0"
+authors = ["Your Name <you@example.com>"]
+edition = "2021"
+license = "MIT"
+
+[dependencies]
